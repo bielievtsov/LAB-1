@@ -1,0 +1,22 @@
+C:\Users\Vitalii\Desktop\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\bin\Debug\netcoreapp2.1\Lab_1_LodeRunner.deps.json
+C:\Users\Vitalii\Desktop\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\bin\Debug\netcoreapp2.1\Lab_1_LodeRunner.runtimeconfig.json
+C:\Users\Vitalii\Desktop\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\bin\Debug\netcoreapp2.1\Lab_1_LodeRunner.runtimeconfig.dev.json
+C:\Users\Vitalii\Desktop\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\bin\Debug\netcoreapp2.1\Lab_1_LodeRunner.dll
+C:\Users\Vitalii\Desktop\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\bin\Debug\netcoreapp2.1\Lab_1_LodeRunner.pdb
+C:\Users\Vitalii\Desktop\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\obj\Debug\netcoreapp2.1\Lab_1_LodeRunner.csprojAssemblyReference.cache
+C:\Users\Vitalii\Desktop\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\obj\Debug\netcoreapp2.1\Lab_1_LodeRunner.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\obj\Debug\netcoreapp2.1\Lab_1_LodeRunner.AssemblyInfoInputs.cache
+C:\Users\Vitalii\Desktop\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\obj\Debug\netcoreapp2.1\Lab_1_LodeRunner.AssemblyInfo.cs
+C:\Users\Vitalii\Desktop\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\obj\Debug\netcoreapp2.1\Lab_1_LodeRunner.dll
+C:\Users\Vitalii\Desktop\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\obj\Debug\netcoreapp2.1\Lab_1_LodeRunner.pdb
+C:\Users\Vitalii\Desktop\1 сем\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\bin\Debug\netcoreapp2.1\Lab_1_LodeRunner.deps.json
+C:\Users\Vitalii\Desktop\1 сем\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\bin\Debug\netcoreapp2.1\Lab_1_LodeRunner.runtimeconfig.json
+C:\Users\Vitalii\Desktop\1 сем\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\bin\Debug\netcoreapp2.1\Lab_1_LodeRunner.runtimeconfig.dev.json
+C:\Users\Vitalii\Desktop\1 сем\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\bin\Debug\netcoreapp2.1\Lab_1_LodeRunner.dll
+C:\Users\Vitalii\Desktop\1 сем\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\bin\Debug\netcoreapp2.1\Lab_1_LodeRunner.pdb
+C:\Users\Vitalii\Desktop\1 сем\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\obj\Debug\netcoreapp2.1\Lab_1_LodeRunner.csprojAssemblyReference.cache
+C:\Users\Vitalii\Desktop\1 сем\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\obj\Debug\netcoreapp2.1\Lab_1_LodeRunner.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\1 сем\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\obj\Debug\netcoreapp2.1\Lab_1_LodeRunner.AssemblyInfoInputs.cache
+C:\Users\Vitalii\Desktop\1 сем\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\obj\Debug\netcoreapp2.1\Lab_1_LodeRunner.AssemblyInfo.cs
+C:\Users\Vitalii\Desktop\1 сем\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\obj\Debug\netcoreapp2.1\Lab_1_LodeRunner.dll
+C:\Users\Vitalii\Desktop\1 сем\LABOOPGAME\Lab_1_LodeRunner\Lab_1_LodeRunner\obj\Debug\netcoreapp2.1\Lab_1_LodeRunner.pdb
